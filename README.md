@@ -1,2 +1,3 @@
-# dsci510
-DSCI510
+# DSCI510
+
+### Xiuwen Zhang | xiuwenz@usc.edu
