@@ -1,7 +1,6 @@
 DATA SOURCE 1: Villagers' info
 URL for website or API: https://api.nookipedia.com
 (If API, link to API docs): https://api.nookipedia.com/doc
-api_key=80e27fa5-02ee-4bf2-a86f-b4899fcfe8a2
 
 Brief description of data/API (what it contains, what it represents, etc.):
   The API is for retrieving Animal Crossing data pulled from Nookpedia (https://nookipedia.com/wiki/)
