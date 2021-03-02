@@ -1,0 +1,33 @@
+DATA SOURCE 1: Villagers' info
+URL for website or API: https://api.nookipedia.com
+(If API, link to API docs): https://api.nookipedia.com/doc
+api_key=80e27fa5-02ee-4bf2-a86f-b4899fcfe8a2
+
+Brief description of data/API (what it contains, what it represents, etc.):
+  The API is for retrieving Animal Crossing data pulled from Nookpedia (https://nookipedia.com/wiki/)
+  The data I'm going to use is the villagers' information.
+  It contains information (such as villager's name, species, personality, etc.) of 480 villagers from the Animal Crossing series.
+
+
+DATA SOURCE 2: Villager popularity tier list
+URL for website or API: https://www.animalcrossingportal.com/games/new-horizons/guides/villager-popularity-list.php#/
+(Access denied)
+https://gamewith.net/animal-crossing-new-horizons/article/show/18171
+# of surveys collected: 105383
+
+Brief description of data/API (what it contains, what it represents, etc.):
+  The url link to the website containing villager popularity tier list.
+  All the villagers from the game Animal Crossing: New Horizons (391 villagers) are list in the website.
+  There are 6 tiers in total, where tier 1 contains the most popular villagers and tier 6 contains the least popular villagers.
+  Within each tier, there is a list containing villagers' ranking, name, personality and species.
+  The ranking order is based on a poll with 14,351 voters. Each voter can vote for up to 3 villagers.
+
+
+DATA SOURCE 3: Prices for trading villagers
+URL for website or API: https://nookazon.com/products/villagers
+
+Brief description of data/API (what it contains, what it represents, etc.):
+  The url link to the villager section of Nookazon, a website that allow Animal Crossing: New Horizons players to trade the items in the game.
+  The website contains 391 villagers' image, name and average price. The price is measured by bells (the currency in the game).
+  The average price is calculated by taking the median of prices from the listing of that item (i.e. villager).
+  For some of the villagers don't have valid price (either no record or it's not sell for bells), the default price is 1,000,000 bells.
