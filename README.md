@@ -1,3 +1,1 @@
-# DSCI510
-
-### Xiuwen Zhang | xiuwenz@usc.edu
+# dsci510-fall2020
